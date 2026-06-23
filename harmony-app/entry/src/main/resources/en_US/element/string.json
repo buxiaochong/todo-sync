@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "Todo Sync"
+    },
+    {
+      "name": "module_desc",
+      "value": "Todo synchronization app"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Main entry"
+    }
+  ]
+}
